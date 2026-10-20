@@ -1,10 +1,10 @@
 <p align="center">
-  <a href="https://omni.nareya79.com"><img src="https://omni.nareya79.com/og.png" alt="EVE Omni – the all-in-one companion for EVE Online" width="100%"></a>
+  <a href="https://omni.nareya79.com"><img src="https://omni.nareya79.com/og.png" alt="EVE Omni – the all-in-one tool for EVE Online" width="100%"></a>
 </p>
 
 ### o7, I'm Nareya79
 
-I build **EVE Omni** – a free, open-source desktop companion for EVE Online: multi-client preview with Tab switching, an in-game overlay, market scanner, trading & hauling with real net profit, industry, skills, navigation and Stream Deck / Stream Dock support. Beta coming soon.
+I build **EVE Omni** – a free, open-source desktop tool for EVE Online: multi-client preview with Tab switching, an in-game overlay, market scanner, trading & hauling with real net profit, industry, skills, navigation and Stream Deck / Stream Dock support. Beta coming soon.
 
 - 🌐 Website: [omni.nareya79.com](https://omni.nareya79.com)
 - ▶ Trailer: [youtu.be/LSafv7unbqA](https://youtu.be/LSafv7unbqA)
